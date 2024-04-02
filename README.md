@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/OpenDevin/OpenDevin/main/logo.png" width="200" align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OpenDevin/OpenDevin/main/logo.png" width="200">
+</p>
 
 
 
@@ -24,4 +26,4 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hritikcps&&theme=tokyonight" alt="hritikcps" /></p>
 </div>
   
-![snake gif](https://github.com/hritikcps/hritikcps/blob/output/github-contribution-grid-snake-dark.svg)
+
